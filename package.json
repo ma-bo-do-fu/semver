@@ -1,0 +1,26 @@
+{
+  "name": "semver",
+  "version": "1.0.0",
+  "description": "tddbc toyama",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-bo-do-fu/semver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma-bo-do-fu/semver/issues"
+  },
+  "homepage": "https://github.com/ma-bo-do-fu/semver#readme",
+  "devDependencies": {
+    "espower-loader": "^1.2.0",
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^3.2.0",
+    "power-assert": "^1.4.2"
+  }
+}
